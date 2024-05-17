@@ -1,0 +1,171 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Manchester City",
+      "country": "England",
+      "recentHighlights": [
+        {
+          "id": 1,
+          "title": "Goal of the Season",
+          "videoUrl": "https://www.example.com/highlight1.mp4",
+          "thumbnailUrl": "https://www.example.com/highlight1_thumbnail.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Last-minute Winner",
+          "videoUrl": "https://www.example.com/highlight2.mp4",
+          "thumbnailUrl": "https://www.example.com/highlight2_thumbnail.jpg"
+        }
+      ],
+      "trophies": [
+        { "name": "Premier League", "year": 2021 },
+        { "name": "FA Cup", "year": 2020 },
+        { "name": "League Cup", "year": 2020 }
+      ],
+      "summary": "Manchester City is a professional football club based in Manchester, England. They are one of the most successful clubs in English football, known for their attacking style of play under manager Pep Guardiola.",
+      "upcomingFixtures": [
+        {
+          "opponent": "Chelsea",
+          "date": "2024-05-25",
+          "time": "15:00",
+          "location": "Etihad Stadium"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Manchester United",
+      "country": "England",
+      "recentHighlights": [
+        {
+          "id": 3,
+          "title": "Late Equalizer",
+          "videoUrl": "https://www.example.com/highlight3.mp4",
+          "thumbnailUrl": "https://www.example.com/highlight3_thumbnail.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Superb Team Goal",
+          "videoUrl": "https://www.example.com/highlight4.mp4",
+          "thumbnailUrl": "https://www.example.com/highlight4_thumbnail.jpg"
+        }
+      ],
+      "trophies": [
+        { "name": "Premier League", "year": 2020 },
+        { "name": "FA Cup", "year": 2016 },
+        { "name": "UEFA Champions League", "year": 2008 }
+      ],
+      "summary": "Manchester United, commonly referred to as Man United, is a professional football club based in Manchester, England. They have a rich history and are one of the most successful clubs in English football, having won numerous domestic and international titles.",
+      "upcomingFixtures": [
+        {
+          "opponent": "Liverpool",
+          "date": "2024-05-27",
+          "time": "17:30",
+          "location": "Old Trafford"
+        }
+      ]
+    },
+
+    {
+      "id": 6,
+      "name": "Bayern Leverkusen",
+      "country": "Germany",
+      "recentHighlights": [
+        {
+          "id": 9,
+          "title": "Amazing Free Kick",
+          "videoUrl": "https://www.example.com/highlight9.mp4",
+          "thumbnailUrl": "https://www.example.com/highlight9_thumbnail.jpg"
+        },
+        {
+          "id": 10,
+          "title": "Team Goal",
+          "videoUrl": "https://www.example.com/highlight10.mp4",
+          "thumbnailUrl": "https://www.example.com/highlight10_thumbnail.jpg"
+        }
+      ],
+      "trophies": [
+        { "name": "DFB-Pokal", "year": 1993 },
+        { "name": "UEFA Cup", "year": 1988 }
+      ],
+      "summary": "Bayer 04 Leverkusen, commonly referred to as Leverkusen, is a professional football club based in Leverkusen, Germany. They have had success both domestically and in European competitions.",
+      "upcomingFixtures": [
+        {
+          "opponent": "Bayern Munich",
+          "date": "2024-05-24",
+          "time": "19:00",
+          "location": "BayArena"
+        }
+      ]
+    },
+
+    {
+      "id": 11,
+      "name": "Real Madrid",
+      "country": "Spain",
+      "recentHighlights": [
+        {
+          "id": 15,
+          "title": "Spectacular Bicycle Kick",
+          "videoUrl": "https://www.example.com/highlight15.mp4",
+          "thumbnailUrl": "https://www.example.com/highlight15_thumbnail.jpg"
+        },
+        {
+          "id": 16,
+          "title": "Last-minute Winner",
+          "videoUrl": "https://www.example.com/highlight16.mp4",
+          "thumbnailUrl": "https://www.example.com/highlight16_thumbnail.jpg"
+        }
+      ],
+      "trophies": [
+        { "name": "La Liga", "year": 2020 },
+        { "name": "Copa del Rey", "year": 2014 },
+        { "name": "UEFA Champions League", "year": 2018 }
+      ],
+      "summary": "Real Madrid Club de Fútbol, commonly referred to as Real Madrid, is a professional football club based in Madrid, Spain. They are one of the most successful clubs in Spanish football and have a rich history of success in European competitions.",
+      "upcomingFixtures": [
+        {
+          "opponent": "Barcelona",
+          "date": "2024-05-26",
+          "time": "20:00",
+          "location": "Santiago Bernabéu"
+        }
+      ]
+    },
+
+    {
+      "id": 16,
+      "name": "Inter Milano",
+      "country": "Italy",
+      "recentHighlights": [
+        {
+          "id": 21,
+          "title": "Incredible Solo Goal",
+          "videoUrl": "https://www.example.com/highlight21.mp4",
+          "thumbnailUrl": "https://www.example.com/highlight21_thumbnail.jpg"
+        },
+        {
+          "id": 22,
+          "title": "Perfect Header",
+          "videoUrl": "https://www.example.com/highlight22.mp4",
+          "thumbnailUrl": "https://www.example.com/highlight22_thumbnail.jpg"
+        }
+      ],
+      "trophies": [
+        { "name": "Serie A", "year": 2021 },
+        { "name": "Coppa Italia", "year": 2021 },
+        { "name": "UEFA Champions League", "year": 2010 }
+      ],
+      "summary": "Inter Milan, commonly referred to as Inter or Inter Milano, is a professional football club based in Milan, Italy. They are one of the most successful clubs in Italian football, with a rich history and a passionate fanbase.",
+      "upcomingFixtures": [
+        {
+          "opponent": "AC Milan",
+          "date": "2024-05-26",
+          "time": "20:45",
+          "location": "San Siro"
+        }
+      ]
+    }
+  ]
+}
