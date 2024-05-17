@@ -4,6 +4,20 @@
       "id": 1,
       "name": "Manchester City",
       "country": "England",
+      "teamNews": [
+        {
+          "id": 1,
+          "title": "Manchester City signs new player",
+          "date": "2024-05-20",
+          "content": "Manchester City has announced the signing of a new player..."
+        },
+        {
+          "id": 2,
+          "title": "Manager Pep Guardiola extends contract",
+          "date": "2024-05-15",
+          "content": "Pep Guardiola has signed a contract extension with Manchester City..."
+        }
+      ],
       "recentHighlights": [
         {
           "id": 1,
@@ -37,6 +51,20 @@
       "id": 2,
       "name": "Manchester United",
       "country": "England",
+      "teamNews": [
+        {
+          "id": 1,
+          "title": "Manchester City signs new player",
+          "date": "2024-05-20",
+          "content": "Manchester City has announced the signing of a new player..."
+        },
+        {
+          "id": 2,
+          "title": "Manager Pep Guardiola extends contract",
+          "date": "2024-05-15",
+          "content": "Pep Guardiola has signed a contract extension with Manchester City..."
+        }
+      ],
       "recentHighlights": [
         {
           "id": 3,
@@ -71,6 +99,20 @@
       "id": 6,
       "name": "Bayern Leverkusen",
       "country": "Germany",
+      "teamNews": [
+        {
+          "id": 1,
+          "title": "Manchester City signs new player",
+          "date": "2024-05-20",
+          "content": "Manchester City has announced the signing of a new player..."
+        },
+        {
+          "id": 2,
+          "title": "Manager Pep Guardiola extends contract",
+          "date": "2024-05-15",
+          "content": "Pep Guardiola has signed a contract extension with Manchester City..."
+        }
+      ],
       "recentHighlights": [
         {
           "id": 9,
@@ -104,6 +146,20 @@
       "id": 11,
       "name": "Real Madrid",
       "country": "Spain",
+      "teamNews": [
+        {
+          "id": 1,
+          "title": "Manchester City signs new player",
+          "date": "2024-05-20",
+          "content": "Manchester City has announced the signing of a new player..."
+        },
+        {
+          "id": 2,
+          "title": "Manager Pep Guardiola extends contract",
+          "date": "2024-05-15",
+          "content": "Pep Guardiola has signed a contract extension with Manchester City..."
+        }
+      ],
       "recentHighlights": [
         {
           "id": 15,
@@ -138,6 +194,20 @@
       "id": 16,
       "name": "Inter Milano",
       "country": "Italy",
+      "teamNews": [
+        {
+          "id": 1,
+          "title": "Manchester City signs new player",
+          "date": "2024-05-20",
+          "content": "Manchester City has announced the signing of a new player..."
+        },
+        {
+          "id": 2,
+          "title": "Manager Pep Guardiola extends contract",
+          "date": "2024-05-15",
+          "content": "Pep Guardiola has signed a contract extension with Manchester City..."
+        }
+      ],
       "recentHighlights": [
         {
           "id": 21,
