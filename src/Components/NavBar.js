@@ -1,7 +1,22 @@
-import React from 'react'
+import React from 'react';
 
-export default function NavBar() {
+function Navbar() {
   return (
-    <div>NavBar</div>
-  )
+    <div className="navbar">
+      <ul>
+        <li>
+          <a href="#">Home</a>
+        </li>
+        <li>
+          <a href="#">About</a>
+        </li>
+        <li>
+          <a href="#">Teams</a>
+        </li>
+        {/* Add more navigation links as needed */}
+      </ul>
+    </div>
+  );
 }
+
+export default Navbar;

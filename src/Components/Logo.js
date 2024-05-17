@@ -1,5 +1,11 @@
 import React from 'react';
 
-export default function Logo() {
-  return <div>Logo</div>;
+function Logo() {
+  return (
+    <div className="logo-container">
+      <img src="/App.png" alt="Logo" className="logo-image" />
+    </div>
+  );
 }
+
+export default Logo;

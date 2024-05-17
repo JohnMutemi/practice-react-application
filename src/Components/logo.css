@@ -1,0 +1,12 @@
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80px; /* Adjust height as needed */
+}
+
+.logo-image {
+  width: 60px; /* Adjust width as needed */
+  height: auto; /* Maintain aspect ratio */
+  /* Additional styles for the logo image */
+}
